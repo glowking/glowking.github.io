@@ -1,23 +1,50 @@
-## Welcome to Arctic And my Site
+## Welcome to the Milky Way 
+### Galaxy Client
+[Click ME TO JOIN THE DISCORD](https://api.glowking.net/discord)
 
-
-![Logo](https://api.glowking.net/cl/arctic_transparent.png) 
-
-
-
-
+## This is basic But like anyways idc
 ```markdown
-Print Hello World
+Console.WriteLine([The Galaxy] Welcome To the Milky Way")
+```
+```markdown
+console.log([The Galaxy]Welcome To the Milky Way");
 ```
 
+##something simple 
+
+```markdown
+
+                                                                                                                                       
+                                                                                                                                       
+  ,----..                ,--,                                              ,----..    ,--,                                     ___     
+ /   /   \             ,--.'|                                             /   /   \ ,--.'|     ,--,                          ,--.'|_   
+|   :     :            |  | :                                            |   :     :|  | :   ,--.'|                  ,---,   |  | :,'  
+.   |  ;. /            :  : '                ,--,  ,--,                  .   |  ;. /:  : '   |  |,               ,-+-. /  |  :  : ' :  
+.   ; /--`    ,--.--.  |  ' |     ,--.--.    |'. \/ .`|     .--,         .   ; /--` |  ' |   `--'_       ,---.  ,--.'|'   |.;__,'  /   
+;   | ;  __  /       \ '  | |    /       \   '  \/  / ;   /_ ./|         ;   | ;    '  | |   ,' ,'|     /     \|   |  ,"' ||  |   |    
+|   : |.' .'.--.  .-. ||  | :   .--.  .-. |   \  \.' / , ' , ' :         |   : |    |  | :   '  | |    /    /  |   | /  | |:__,'| :    
+.   | '_.' : \__\/: . .'  : |__  \__\/: . .    \  ;  ;/___/ \: |         .   | '___ '  : |__ |  | :   .    ' / |   | |  | |  '  : |__  
+'   ; : \  | ," .--.; ||  | '.'| ," .--.; |   / \  \  \.  \  ' |         '   ; : .'||  | '.'|'  : |__ '   ;   /|   | |  |/   |  | '.'| 
+'   | '/  .'/  /  ,.  |;  :    ;/  /  ,.  | ./__;   ;  \\  ;   :         '   | '/  :;  :    ;|  | '.'|'   |  / |   | |--'    ;  :    ; 
+|   :    / ;  :   .'   \  ,   /;  :   .'   \|   :/\  \ ; \  \  ;         |   :    / |  ,   / ;  :    ;|   :    |   |/        |  ,   /  
+ \   \ .'  |  ,     .-./---`-' |  ,     .-./`---'  `--`   :  \  \         \   \ .'   ---`-'  |  ,   /  \   \  /'---'          ---`-'   
+  `---`     `--`---'            `--`---'                   \  ' ;          `---`              ---`-'    `----'                         
+                                                            `--`                                                                      
+```
+
+![Logo](https://api.glowking.net/Galaxy/DCRPC.jpg) 
 
 
-### Jekyll Themes
-
-[CLICK ME FOR THE INSTALLER](https://api.glowking.net/cl/dl/ArcticInstaller.zip)
 
 
-[Click ME TO JOIN THE DISCORD](https://api.glowking.net/discord)
-### Support or Contact
+
+
+
+
+
+
+
+
+### Made By HyperV#0001
 
 
